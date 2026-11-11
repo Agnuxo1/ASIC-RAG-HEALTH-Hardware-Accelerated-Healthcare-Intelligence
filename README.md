@@ -8,6 +8,10 @@
 
 > **Hardware-Accelerated Retrieval-Augmented Generation for Scalable Healthcare Blockchain in Resource-Constrained Environments**
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The clinic-workload and head-to-head benchmark structure provides reusable material for investigating whether existing mining hardware can assist healthcare data workflows and cryptographic attestation. Its potential value is better allocation of available equipment and more explicit power/performance comparisons. A meaningful sustainability claim requires matched task quality and whole-system measurements; the <a href="#key-contributions">documented research components</a> define what should be assessed.</sub>
+<!-- impact-note:end -->
+
 ## Overview
 
 ASIC-RAG-HEALTH validates the **Lucky Miner LV06** ASIC as a low-power replacement for GPU-based inference in rural and resource-constrained healthcare settings. The system combines a Retrieval-Augmented Generation (RAG) pipeline with ASIC-generated cryptographic attestations to create a privacy-preserving, energy-efficient medical AI platform.
